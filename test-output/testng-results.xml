@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-08T14:05:32Z" name="Default suite" finished-at="2024-06-08T14:05:54Z" duration-ms="22049">
+    <groups>
+      <group name="regression">
+        <method signature="ListCustomersTest.userShouldBeAbleToEditAndViewCustomer()[pri:0, instance:test.ListCustomersTest@3370f42]" name="userShouldBeAbleToEditAndViewCustomer" class="test.ListCustomersTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2024-06-08T14:05:32Z" name="Default test" finished-at="2024-06-08T14:05:54Z" duration-ms="22049">
+      <class name="test.ListCustomersTest">
+        <test-method is-config="true" signature="readJson()[pri:0, instance:test.ListCustomersTest@3370f42]" started-at="2024-06-08T14:05:32Z" name="readJson" finished-at="2024-06-08T14:05:32Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readJson -->
+        <test-method signature="userShouldBeAbleToEditAndViewCustomer()[pri:0, instance:test.ListCustomersTest@3370f42]" started-at="2024-06-08T14:05:32Z" name="userShouldBeAbleToEditAndViewCustomer" finished-at="2024-06-08T14:05:54Z" duration-ms="22018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToEditAndViewCustomer -->
+      </class> <!-- test.ListCustomersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
